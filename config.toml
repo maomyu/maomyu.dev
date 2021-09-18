@@ -1,5 +1,5 @@
 baseURL = "https://romantic-volhard-8d2a86.netlify.app"
-title = "Build My Passive Income"
+title = "maomaoyu"
 theme = "hugo-coder"
 languagecode = "zh-cn"
 defaultcontentlanguage = "zh-cn"
@@ -35,7 +35,7 @@ FootnoteReturnLinkContents = "↑"
   series = "series"
 
 [params]
-    author = "Dawei Ma"
+    author = "Maoyu Mao"
     info1 = "📚 Lifelong Learner"
     info2 = "👨‍💻 Full-Stack Developer"
     info3 = "💴 ETF Trader"
@@ -44,11 +44,6 @@ FootnoteReturnLinkContents = "↑"
     avatarurl = "images/mdw2.png"
     logoImg = "images/mdw2.png"
     header = "BMPI.dev"
-
-    twitter = "madawei2699"
-    github = "bmpi-dev"
-    telegram = "bmpi365"
-    zhihu = "improve365"
 
     favicon_32 = "images/f3/favicon-32x32.png"
     favicon_16 = "images/f3/favicon-16x16.png"
@@ -142,46 +137,12 @@ FootnoteReturnLinkContents = "↑"
     url = "https://dev.to/madawei2699"
 
 [languages]
-    [languages.en]
-        languagename = "English"
-
-        [languages.en.menu]
-
-            [[languages.en.menu.main]]
-                name = "About"
-                weight = 1
-                url = "/about/"
-            [[languages.en.menu.main]]
-                name = "Self"
-                weight = 2
-                url  = "/self/"
-            [[languages.en.menu.main]]
-                name = "Dev"
-                weight = 3
-                url  = "/dev/"
-            [[languages.en.menu.main]]
-                name = "Money"
-                weight = 4
-                url  = "/money/"
-            [[languages.en.menu.main]]
-                name = "Project"
-                weight = 5
-                url  = "/project/"
-            [[languages.en.menu.main]]
-                name = "Goal"
-                weight = 6
-                url  = "/goal/"
-            [[languages.en.menu.main]]
-                name = "Twitter"
-                weight = 7
-                url  = "https://twitter.com/madawei2699"
-
     [languages.zh-cn]
         languagename = "Chinese"
-        title = "构建我的被动收入"
+        title = "maomaoyu"
 
         [languages.zh-cn.params]
-            author = "马大伟"
+            author = "毛茂宇"
             info1 = "📚 Lifelong Learner"
             info2 = "👨‍💻 Full-Stack Developer"
             info3 = "💴 ETF Trader"
@@ -199,26 +160,10 @@ FootnoteReturnLinkContents = "↑"
                 weight = 2
                 url = "/about/"
             [[languages.zh-cn.menu.main]]
-                name = "学习"
+                name = "文章"
                 weight = 3
                 url  = "/self/"
             [[languages.zh-cn.menu.main]]
-                name = "技术"
-                weight = 4
-                url  = "/dev/"
-            [[languages.zh-cn.menu.main]]
-                name = "投资"
-                weight = 5
-                url  = "/money/"
-            [[languages.zh-cn.menu.main]]
-                name = "个人项目"
-                weight = 6
-                url  = "/project/"
-            [[languages.zh-cn.menu.main]]
                 name = "长期目标"
-                weight = 7
+                weight = 4
                 url  = "/goal/"
-            [[languages.zh-cn.menu.main]]
-                name = "Twitter"
-                weight = 8
-                url  = "https://twitter.com/madawei2699"
